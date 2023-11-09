@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Ini adalah repository untuk mencatat infomrasi yang saya adpatkan dari buku dan referensi yang saya baca.
